@@ -12,3 +12,4 @@ First, we provide a theoretical overview of the main techniques along with some 
 All the experiments can be found in the notebook file. The folder `Data` contains the MNIST data set along with the grid search results. For a more convenient overview of the notebook, see https://nbviewer.jupyter.org/github/afiliot/nonlinear-dimensionality-reduction/blob/master/notebook.ipynb#Neural%20Network. 
 
 
+![2D projection of the MNIST data set](mnist_comp.png)
