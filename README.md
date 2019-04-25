@@ -5,7 +5,7 @@ This repository provides our work done as part of the ENSAE lecture: "Advanced S
 
 ## Report
 
-First, we provide a theoretical overview of the main techniques along with some simple numerical experiments on synthetic manifolds. Then, we apply the latter on the MNIST data set following the $2$ tasks: data vizualization and classification of the digits. The corresponding implementation can be found on Github: \url{https://github.com/afiliot/nonlinear-dimensionality-reduction}. 
+First, we provide a theoretical overview of the main techniques along with some simple numerical experiments on synthetic manifolds. Then, we apply the latter on the MNIST data set following the $2$ tasks: data vizualization and classification of the digits.
 
 ## Experiments
 
